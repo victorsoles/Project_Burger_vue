@@ -4,8 +4,8 @@
     <div>
       <router-view></router-view>
     </div>
-    <Footer />
   </div>
+  <Footer />
 </template>
 
 <script>
